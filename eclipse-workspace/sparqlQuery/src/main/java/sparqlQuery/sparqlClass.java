@@ -19,27 +19,29 @@ public class sparqlClass {
 			"PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\r\n" + 
 			"PREFIX dbo: <http://dbpedia.org/ontology/>\r\n" + 
 			"PREFIX foaf: <http://xmlns.com/foaf/0.1/>\r\n" + 
-			"SELECT DISTINCT ?labelEn ?labelDe WHERE {\r\n" + 
-			"  {?sub rdf:type dbo:Place .\r\n" + 
-			"  ?sub rdfs:label ?labelDe .\r\n" + 
-			"  ?sub foaf:name ?labelEn . \r\n" + 
+			"SELECT DISTINCT ?resc WHERE {\r\n" + 
+			"  {?resc rdf:type dbo:Place .\r\n" + 
+			"  ?resc rdfs:label ?labelDe .\r\n" + 
+			"  ?resc foaf:name ?labelEn . \r\n" + 
 			"    Filter (lang(?labelDe) = 'de') .}\r\n" + 
 			"  UNION\r\n" + 
-			"  {?sub rdf:type dbo:Place .\r\n" + 
-			"   ?sub rdfs:label ?labelDe .\r\n" + 
-			"  ?sub foaf:name ?labelEn .\r\n" + 
+			"  {?resc rdf:type dbo:Place .\r\n" + 
+			"   ?resc rdfs:label ?labelDe .\r\n" + 
+			"  ?resc foaf:name ?labelEn .\r\n" + 
 			"    Filter (lang(?labelDe) = 'en') .}\r\n" + 
 			"} \r\n" + 
 			"LIMIT 500";
-
+	private static String path = "result.txt";
+	
 	public sparqlClass() {
 	}
 	
 	
-	public static void writeFile(String op) 
+	public static void writeFile(String writeMessage, String path) 
 			  throws IOException {
-			    BufferedWriter writer = new BufferedWriter(new FileWriter("C:\\Users\\user\\Documents\\CodeStore\results.txt", true));
-			    writer.append(op);
+		        File file = new File(path);
+			    BufferedWriter writer = new BufferedWriter(new FileWriter(file, true));
+			    writer.append(writeMessage);
 			    writer.newLine();
 			     
 			    writer.close();
@@ -59,9 +61,7 @@ public class sparqlClass {
 	    	        
 	    	        System.out.println("Starting Thread...");
 	    	        while (results.hasNext()) {
-					writeFile(results.next().toString());
-
-					//System.out.println(results.next().get("Concept"));
+					writeFile(results.next().toString(),path);
 					}
 
 	    	        System.out.println("Ended Thread...");

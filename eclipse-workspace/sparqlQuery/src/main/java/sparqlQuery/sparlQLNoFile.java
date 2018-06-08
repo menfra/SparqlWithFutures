@@ -29,12 +29,13 @@ public class sparlQLNoFile {
 			"    Filter (lang(?labelDe) = 'en') .}\r\n" + 
 			"} \r\n" + 
 			"LIMIT 500";
-
+    private static String path = "result.txt";
 	
-	public static void writeFile(String op) 
+	public static void writeFile(String writeMessage, String path) 
 			  throws IOException {
-			    BufferedWriter writer = new BufferedWriter(new FileWriter("C:\\Saves\\results.txt", true));
-			    writer.append(op);
+		        File file = new File(path);
+			    BufferedWriter writer = new BufferedWriter(new FileWriter(file, true));
+			    writer.append(writeMessage);
 			    writer.newLine();
 			     
 			    writer.close();
@@ -47,10 +48,6 @@ public class sparlQLNoFile {
 		// TODO Auto-generated method stub
 		
 		 ParameterizedSparqlString qs = new ParameterizedSparqlString(sparqlQuery);
-         
-
-	        /*Literal ibuprofen = ResourceFactory.createLangLiteral("Ibuprofen", "en");
-	        qs.setParam("label", ibuprofen);*/
 
 	        QueryExecution exec = QueryExecutionFactory.sparqlService("http://dbpedia.org/sparql", qs.asQuery());
 
@@ -58,11 +55,12 @@ public class sparlQLNoFile {
 
 	        while (results.hasNext()) {
 	        	
-	            System.out.println(results.next().get("?resc").toString());
+	            //System.out.println(results.next().get("?resc").toString());
+	        	
+	        	//The output of the query is written to a file
 	            try {
-					writeFile(results.next().get("?resc").toString());
+					writeFile(results.next().get("?resc").toString(), path);
 				} catch (IOException e) {
-					// TODO Auto-generated catch block
 					e.printStackTrace();
 				}
 	        }
