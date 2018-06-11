@@ -70,7 +70,7 @@ public class sparqlClass {
 	    	        QueryExecution exec = QueryExecutionFactory.sparqlService("http://dbpedia.org/sparql", qs.asQuery());
 	    	        final ResultSet results = exec.execSelect();
 	    	        
-	    	        //fibonacci(30);
+	    	        
 	    	        while (results.hasNext()) {
 					//writeFile(results.next().toString(),(new sparqlClass()).path);
 	    	          writeFile(fibonacci(5),(new sparqlClass()).path);
