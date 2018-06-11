@@ -49,7 +49,7 @@ public class sparqlClass {
 			    writer.close();
 			}
 	
-	//Fibonacci Implementation 
+	//Fibonacci function 
 	 public static String fibonacci(int n) {
 	        if (n <= 1) return Integer.toString(n);
 	        else return fibonacci(n-1) + fibonacci(n-2);
@@ -72,6 +72,8 @@ public class sparqlClass {
 	    	        
 	    	        
 	    	        while (results.hasNext()) {
+	    	        	//Toggling in between the Fibonacci and the SparQl queryy
+	    	        	
 					//writeFile(results.next().toString(),(new sparqlClass()).path);
 	    	          writeFile(fibonacci(5),(new sparqlClass()).path);
 					}
