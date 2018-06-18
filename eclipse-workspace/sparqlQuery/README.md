@@ -5,6 +5,6 @@
 
 ### Purpose
 
-- To demonstrate the usage of Futures as an approach to multi-threading.
+- To demonstrate the usage of Futures as an approach to multithreading.
 - To show how to work with SParQl in a Java program
 
