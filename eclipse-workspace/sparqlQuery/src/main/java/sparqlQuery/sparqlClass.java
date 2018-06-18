@@ -50,16 +50,18 @@ public class sparqlClass {
 			}
 	
 	//Fibonacci function 
-	 public static String fibonacci(int n) {
-	        if (n <= 1) return Integer.toString(n);
+	 public static long fibonacci(int n) {
+	        if (n <= 1) return n;
 	        else return fibonacci(n-1) + fibonacci(n-2);
 	    }
 
 	 
 	    public static void main(String[] args) {
-	    	ExecutorService executor = Executors.newCachedThreadPool();
-	    	
-	    	ParameterizedSparqlString qs = new ParameterizedSparqlString((new sparqlClass()).sparqlQuery);
+	    	ExecutorService executor = Executors.newCachedThreadPool(); //meant for Future
+	    	ParameterizedSparqlString qs = new ParameterizedSparqlString((new sparqlClass()).sparqlQuery); //SparQL
+	    	QueryExecution exec = QueryExecutionFactory.sparqlService("http://dbpedia.org/sparql", qs.asQuery()); //SparQL
+ 	        final ResultSet results = exec.execSelect(); //SparQL
+ 	       
 	    		
 	    	Future<String> future = executor.submit(new Callable<String>() {
 	    		
@@ -67,17 +69,19 @@ public class sparqlClass {
 	    			
 	    	        
 	    	        System.out.println("Starting Thread...");
-	    	        QueryExecution exec = QueryExecutionFactory.sparqlService("http://dbpedia.org/sparql", qs.asQuery());
-	    	        final ResultSet results = exec.execSelect();
+	    	       
 	    	        
+	    	      //Toggling in between the Fibonacci and the SparQl queryy
+	    	        int n = Integer.parseInt(args[0]);
+	    	        for (int i = 1; i <= n; i++)
+	    	        {
+	    	        	writeFile(Long.toString( fibonacci(i)),(new sparqlClass()).path);
+	    	        }
 	    	        
 	    	        while (results.hasNext()) {
-	    	        	//Toggling in between the Fibonacci and the SparQl queryy
-	    	        	
-					//writeFile(results.next().toString(),(new sparqlClass()).path);
-	    	          writeFile(fibonacci(5),(new sparqlClass()).path);
+					writeFile(results.next().toString(),(new sparqlClass()).path);
+					
 					}
-
 	    	        System.out.println("Ended Thread...");
 	    	        return results.toString();
 	    		}
@@ -88,11 +92,11 @@ public class sparqlClass {
 	        
 	        try {
 	        	System.out.println(future.get());
-				//ResultSetFormatter.out(future.get());
-			} catch (InterruptedException e) {
+				//ResultSetFormatter.out(results);
+			} catch (ExecutionException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
-			} catch (ExecutionException e) {
+			} catch (InterruptedException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
