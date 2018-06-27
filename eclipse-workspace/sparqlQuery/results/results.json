@@ -1,0 +1,2509 @@
+{
+  "head": {
+    "vars": [ "resc" , "labelDe" , "labelEn" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/1897" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "1897" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "1897" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/2060_Chiron" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(2060) Chiron" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Chiron" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/243_Ida" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(243) Ida" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "243 Ida" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/253_Mathilde" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(253) Mathilde" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "253 Mathilde" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/2_Pallas" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(2) Pallas" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "2 Pallas" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/3753_Cruithne" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(3753) Cruithne" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "3753 Cruithne" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/4179_Toutatis" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(4179) Toutatis" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "4179 Toutatis" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/433_Eros" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(433) Eros" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "433 Eros" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/4769_Castalia" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(4769) Castalia" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "4769 Castalia" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/588_Achilles" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(588) Achilles" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "588 Achilles" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/61_Cygni" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "61 Cygni" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "61 Cygni" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/70_Virginis" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "70 Virginis" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "70 Virginis" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Acre,_Israel" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Akkon" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Acre" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Acre,_Israel" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Akkon" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "عكّا" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Adirondack_Mountains" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Adirondack Mountains" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Adirondack Mountains" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Albireo" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Albireo" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Albireo" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Albula_Alps" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Albula-Alpen" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Albula Alps" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Almohad_Caliphate" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Almohaden" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Almohad Caliphate" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Almohad_Caliphate" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Almohaden" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Almohads" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Ashkelon" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Aschkelon" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Ashkelon" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Ashkelon" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Aschkelon" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Ashqelon, Ascalon" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Ashkelon" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Aschkelon" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "عسقلان" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Bernese_Alps" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Berner Alpen" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Bernese Alps" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Betelgeuse" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Beteigeuze" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Betelgeuse" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Blackfriars_Bridge" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Blackfriars Bridge" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Blackfriars Bridge" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Brooklyn_Bridge" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Brooklyn Bridge" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Brooklyn Bridge" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Campania" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Kampanien" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Campania" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Cape_Colony" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Kapkolonie" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Cape Colony" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Cape_Colony" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Kapkolonie" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Cape of Good Hope" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Carpathian_Mountains" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Karpaten" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Carpathians" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Castile_(historical_region)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Kastilien" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Castile" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Castile_(historical_region)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Kastilien" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Castilla" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Central_Tibetan_Administration" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Tibetische Exilregierung" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Tsänjöl Bhömī Drikdzuk" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Central_Tibetan_Administration" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Tibetische Exilregierung" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "btsan-byol bod-mi'i sgrig-'dzugs" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Corfu" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Korfu" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Corfu" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Corfu" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Korfu" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Κέρκυρα" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Cottian_Alps" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Cottische Alpen" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Cottian Alps" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/County_Londonderry" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "County Londonderry" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "County Londonderry" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/County_Tyrone" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "County Tyrone" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "County Tyrone" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Dalmatia" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Dalmatien" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Dalmatia" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Dalmatia" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Dalmatien" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Dalmacija" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Dauphiné_Alps" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Dauphiné-Alpen" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Dauphiné Alps" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Democratic_Republic_of_Afghanistan" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Demokratische Republik Afghanistan" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Afghanistan" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Democratic_Republic_of_Afghanistan" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Demokratische Republik Afghanistan" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Democratic Republic of Afghanistan (1978&ndash;87)" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Democratic_Republic_of_Afghanistan" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Demokratische Republik Afghanistan" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Dǝ Afġānistān Jumhūriyat" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Democratic_Republic_of_Afghanistan" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Demokratische Republik Afghanistan" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Jumhūri-ye Dimukrātī-ye Afghānistān" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Democratic_Republic_of_Afghanistan" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Demokratische Republik Afghanistan" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Jumhūrī-ye Afġānistān" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Democratic_Republic_of_Afghanistan" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Demokratische Republik Afghanistan" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Dǝ Afġānistān Dimukratī Jumhūriyat Republic of Afghanistan (1987\u201392)" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Democratic_Republic_of_Afghanistan" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Demokratische Republik Afghanistan" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "جمهوری افغانستان" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Democratic_Republic_of_Afghanistan" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Demokratische Republik Afghanistan" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "جمهوری دمکراتی افغانستان" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Democratic_Republic_of_Afghanistan" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Demokratische Republik Afghanistan" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "د افغانستان جمهوریت" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Democratic_Republic_of_Afghanistan" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Demokratische Republik Afghanistan" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "دافغانستان دمکراتی جمهوریت" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Dolomites" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Dolomiten" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Dolomites" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Duchy_of_Lorraine" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Herzogtum Lothringen" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Lorraine" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Duchy_of_Lorraine" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Herzogtum Lothringen" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Duchy of (Upper) Lorraine" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Duchy_of_Lorraine" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Herzogtum Lothringen" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Duché de (Haute-)Lorraine (fr)" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Duchy_of_Lorraine" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Herzogtum Lothringen" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Herzogtum (Ober-)Lothringen (de)" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Epirus" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Epirus (historische Region)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Epirus" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Epirus" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Epirus (historische Region)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Ήπειρος" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Fatimid_Caliphate" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Fatimiden" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Fatimid Caliphate" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Fatimid_Caliphate" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Fatimiden" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Fatimid Islamic Caliphate" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/French_Equatorial_Africa" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Französisch-Äquatorialafrika" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "French Equatorial Africa" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/French_Equatorial_Africa" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Französisch-Äquatorialafrika" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Afrique équatoriale française" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Ganymede_(moon)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Ganymed (Mond)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Ganymede" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Georgia_(U.S._state)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Georgia" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "State of Georgia" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Glarus_Alps" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Glarner Alpen" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Glarus Alps" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Graian_Alps" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Grajische Alpen" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Graian Alps" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Great_Dividing_Range" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Great Dividing Range" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Great Dividing Range" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Haifa" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Haifa" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Haifa" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Halley's_Comet" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Halleyscher Komet" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "1P/Halley (Halley's Comet)" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Himalayas" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Himalaya" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Himalayas" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/History_of_Portugal_(1415\u20131578)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Chronologie der portugiesischen Entdeckungen" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Portugal" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/History_of_Portugal_(1415\u20131578)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Chronologie der portugiesischen Entdeckungen" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Kingdom of" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/History_of_Portugal_(1415\u20131578)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Chronologie der portugiesischen Entdeckungen" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Portugal and the Algarves" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Hoysala_Empire" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Hoysala" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Hoysala Empire" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Hoysala_Empire" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Hoysala" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "ಹೊಯ್ಸಳ ಸಾಮ್ರಾಜ್ಯ" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Indian_Territory" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Indianer-Territorium" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Oklahoma" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Indian_Territory" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Indianer-Territorium" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Indian Territory" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Italian_East_Africa" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Italienisch-Ostafrika" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Italian East Africa" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Italian_East_Africa" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Italienisch-Ostafrika" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Africa Orientale Italiana" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Jin_dynasty_(1115\u20131234)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Jin-Dynastie (1125\u20131234)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Jin dynasty" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Jin_dynasty_(1115\u20131234)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Jin-Dynastie (1125\u20131234)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Jin dynasty, 1115\u20131234" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Jin_dynasty_(1115\u20131234)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Jin-Dynastie (1125\u20131234)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "65px" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Jin_dynasty_(265\u2013420)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Jin-Dynastie (265\u2013420)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Jin dynasty" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Jin_dynasty_(265\u2013420)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Jin-Dynastie (265\u2013420)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Jin" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Jupiter" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Jupiter (Planet)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Jupiter" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Labrador" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Labrador (Kanada)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Labrador" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Lepontine_Alps" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Lepontinische Alpen" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Lepontine Alps" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Liu_Song_dynasty" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Frühere Song-Dynastie" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Song" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Liu_Song_dynasty" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Frühere Song-Dynastie" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Liu Song" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Liu_Song_dynasty" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Frühere Song-Dynastie" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "宋" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Lower_Canada" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Niederkanada" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Lower Canada" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Lower_Canada" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Niederkanada" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Province of Lower Canada" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Lower_Canada" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Niederkanada" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Province du Bas-Canada" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Lullingstone_Roman_Villa" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Römische Villa bei Lullingstone" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Lullingstone Roman Villa" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Macedonia_(ancient_kingdom)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Makedonien (antikes Königreich)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Macedonia" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Macedonia_(ancient_kingdom)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Makedonien (antikes Königreich)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Macedon" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Macedonia_(ancient_kingdom)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Makedonien (antikes Königreich)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Μακεδονία" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Maritime_Alps" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Seealpen" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Maritime Alps" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Moldavia" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Fürstentum Moldau" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Moldavia" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Moldavia" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Fürstentum Moldau" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Principality of Moldavia" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Monticello" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Monticello (Virginia)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Monticello" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Netherlands_New_Guinea" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Niederländisch-Neuguinea" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Netherlands New Guinea" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Netherlands_New_Guinea" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Niederländisch-Neuguinea" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Nederlands-Nieuw-Guinea" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/New_Netherland" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Nieuw Nederland" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "New Netherland" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/New_Netherland" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Nieuw Nederland" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Nieuw-Nederland" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Oregon_Trail" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Oregon Trail" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "The Oregon Trail" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Organisation_of_African_Unity" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Organisation für Afrikanische Einheit" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Organisation of African Unity" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Organisation_of_African_Unity" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Organisation für Afrikanische Einheit" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Organisation for African Unity" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Organisation_of_African_Unity" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Organisation für Afrikanische Einheit" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Organisation de l'Unité Africaine" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Organisation_of_Islamic_Cooperation" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Organisation für Islamische Zusammenarbeit" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "OIC" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Overijssel" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Provinz Overijssel" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Overijssel" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Palace_of_Versailles" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Schloss Versailles" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Palace of Versailles" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Palace_of_Versailles" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Schloss Versailles" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Château de Versailles" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Peckforton_Castle" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Peckforton Castle" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Peckforton Castle" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Pennine_Alps" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Walliser Alpen" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Pennine Alps" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Petra" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Petra (Jordanien)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Petra" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Petra" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Petra (Jordanien)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Raqmu" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Pluto" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Pluto" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Pluto" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Sangre_de_Cristo_Range" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Sangre de Cristo Range" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Sangre de Cristo Range" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saturn" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saturn (Planet)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Saturn" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Scutum" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Schild (Sternbild)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Scutum" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Seine" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Seine" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Seine" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Seine" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Seine" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "La Seine" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Sevastopol" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Sewastopol" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Sevastopol" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Shang_dynasty" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Shang-Dynastie" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Shang dynasty" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Silk_Road" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Seidenstraße" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Silk Road" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Sindh" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Sindh" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Sindh" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Sindh" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Sindh" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "سنڌ" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Snowy_Mountains" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Snowy Mountains" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Snowy Mountains" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Song_dynasty" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Song-Dynastie" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Song dynasty" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Song_dynasty" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Song-Dynastie" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Northern Song dynasty" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/South-West_Africa" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Südwestafrika" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "South-West Africa" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/South-West_Africa" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Südwestafrika" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Suidwes-Afrika" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/South-West_Africa" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Südwestafrika" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Südwestafrika" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/South-West_Africa" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Südwestafrika" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Zuidwest-Afrika" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Spica" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Spica" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Spica" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Tajiks" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Tadschiken" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Tajik people" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Tajiks" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Tadschiken" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Тоҷик" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Tajiks" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Tadschiken" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "تاجیک" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Tang_dynasty" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Tang-Dynastie" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Tang dynasty" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Tau_Ceti" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Tau Ceti" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Tau Ceti" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Taurus_(constellation)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Stier (Sternbild)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Taurus" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Telescopium" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Teleskop (Sternbild)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Telescopium" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Telesto_(moon)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Telesto (Mond)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Telesto" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Tennessee" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Tennessee" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "State of Tennessee" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Tenochtitlan" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Tenochtitlan" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Tenochtitlan" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Tenochtitlan" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Tenochtitlan" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Mexico-Tenochtitlan" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Thirteen_Colonies" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Dreizehn Kolonien" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Thirteen Colonies" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Thuban" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Thuban" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Thuban, α Dra" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Tower_of_London" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Tower of London" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Tower of London" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Triangulum_Australe" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Südliches Dreieck" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Triangulum Australe" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Triton_(moon)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Triton (Mond)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Triton" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Tucana" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Tukan (Sternbild)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Tucana" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Umbriel_(moon)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Umbriel" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Umbriel" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/United_Kingdom_of_the_Netherlands" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Königreich der Vereinigten Niederlande" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Netherlands" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/United_Kingdom_of_the_Netherlands" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Königreich der Vereinigten Niederlande" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Kingdom of the Netherlands" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/United_Nations_Interim_Administration_Mission_in_Kosovo" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "United Nations Interim Administration Mission in Kosovo" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Kosovo" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/United_States_Minor_Outlying_Islands" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "United States Minor Outlying Islands" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "United States Minor Outlying Islands" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Uranus" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Uranus (Planet)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Uranus" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Ursa_Major" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Großer Bär" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Ursa Major" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Ursa_Minor" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Kleiner Bär" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Ursa Minor" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Vega" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Wega" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Vega" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Vela_(constellation)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Segel des Schiffs" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Vela" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Vermont" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Vermont" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "State of Vermont" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Virginia" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Virginia" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Commonwealth of Virginia" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Virgo_(constellation)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Jungfrau (Sternbild)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Virgo" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Volksmarine" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Volksmarine" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Volksmarine" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Volksmarine" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Volksmarine" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "People's Navy" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Wall_Street" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Wall Street" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Wall Street" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/West_Berlin" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "West-Berlin" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "West Berlin" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/West_Berlin" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "West-Berlin" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "''West-Berlin" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/West_Berlin" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "West-Berlin" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Berlin (West)''" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/West_Virginia" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "West Virginia" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "State of West Virginia" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Western_European_Union" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Westeuropäische Union" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Western European Union" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Western_European_Union" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Westeuropäische Union" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "WEU" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Western_European_Union" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Westeuropäische Union" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Union de l'Europe occidentale" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Western_Xia" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Westliche Xia-Dynastie" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Western Xia" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Western_Xia" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Westliche Xia-Dynastie" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "80px" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Western_Xia" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Westliche Xia-Dynastie" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "西夏" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Westminster_Abbey" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Westminster Abbey" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Westminster Abbey" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Westminster_Abbey" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Westminster Abbey" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Collegiate Church of St Peter at Westminster" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Whidbey_Island" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Whidbey Island" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Whidbey Island" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Wyoming" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Wyoming" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "State of Wyoming" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Xia_dynasty" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Xia-Dynastie" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Xia dynasty" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Xia_dynasty" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Xia-Dynastie" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Xia" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Zhou_dynasty" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Zhou-Dynastie" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Zhou dynasty" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/1681_Steinmetz" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(1681) Steinmetz" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "1681 Steinmetz" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/1703_Barry" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(1703) Barry" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "1703 Barry" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/1817_Katanga" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(1817) Katanga" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "1817 Katanga" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/304_Olga" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(304) Olga" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "304 Olga" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/974_Lioba" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(974) Lioba" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "974 Lioba" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Akrotiri,_Crete" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Akrotiri (Kreta)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Akrotiri" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Akrotiri,_Crete" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Akrotiri (Kreta)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Ακρωτήρι" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Aksu,_Antalya" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Aksu (Antalya)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Aksu" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Aksu,_Kazakhstan" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Aqsu (Pawlodar)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Aksu" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Aksu,_Kazakhstan" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Aqsu (Pawlodar)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Ақсу" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Alto,_Piedmont" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Alto (Piemont)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Alto" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Alto,_Piedmont" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Alto (Piemont)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Comune di Alto" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Anadolu_Airport" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Flughafen Eskişehir Anadolu" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Eskişehir Hasan Polatkan Airport" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Anadolu_Airport" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Flughafen Eskişehir Anadolu" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Eskişehir Hasan Polatkan Havalimanı" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Anville,_Charente" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Anville (Charente)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Anville" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Baltoro_Glacier" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Baltoro-Gletscher" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Baltoro Glacier" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Baltoro_Muztagh" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Baltoro Muztagh" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Baltoro Muztagh" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Bana,_Niger" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Bana (Niger)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Bana, Niger" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Banatska_Palanka" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Banatska Palanka" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Banatska Palanka" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Banatska_Palanka" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Banatska Palanka" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Банатска Паланка" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Bang_Pakong_District" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Amphoe Bang Pakong" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Bang Pakong" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Bang_Pakong_District" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Amphoe Bang Pakong" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "บางปะกง" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Barzan,_Charente-Maritime" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Barzan (Charente-Maritime)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Barzan" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Bataan_National_Park" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Bataan-Nationalpark" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Bataan National Park" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Bevern,_Schleswig-Holstein" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Bevern (Holstein)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Bevern" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Bevern_(Samtgemeinde)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Samtgemeinde Bevern" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Bevern" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Boulogne,_Vendée" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Boulogne (Vendée)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Boulogne" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Brando,_Haute-Corse" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Brando (Korsika)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Brando" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Brody,_Lesser_Poland_Voivodeship" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Brody (Kalwaria Zebrzydowska)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Brody" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Brody,_Nowy_Tomyśl_County" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Brody (Nowy Tomyśl)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Brody" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Brody,_Starachowice_County" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Brody (Powiat Starachowicki)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Brody" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Brody,_Żary_County" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Brody (Lebus)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Brody" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Brza_Palanka" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Brza Palanka" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Brza Palanka" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Brza_Palanka" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Brza Palanka" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Брза Паланка" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Cabannes,_Bouches-du-Rhône" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Cabannes" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Cabannes" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Cagayan_River_(Mindanao)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Cagayan (Mindanao)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Cagayan de Oro River" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Carandiru_Penitentiary" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Carandiru" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Carandiru Penitentiary" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Carandiru_Penitentiary" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Carandiru" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Casa de Detenção de São Paulo" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Castelvecchio_di_Rocca_Barbena" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Castelvecchio di Rocca Barbena" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Castelvecchio di Rocca Barbena" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Castelvecchio_di_Rocca_Barbena" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Castelvecchio di Rocca Barbena" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Comune di Castelvecchio di Rocca Barbena" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Cebu_City" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Cebu City" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Cebu City" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Cebu_City" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Cebu City" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "City of Cebu" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Cebu_City" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Cebu City" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Dakbayan sa Sugbo" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Cebu_City" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Cebu City" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Lungsod ng Cebu" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Cervino,_Campania" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Cervino (Kampanien)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Cervino" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Cervino,_Campania" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Cervino (Kampanien)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Comune di Cervino" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Chua_Cocani" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Chua Cocani" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Chua Cocani" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Cienfuegos_Province" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Provinz Cienfuegos" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Cienfuegos Province" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/County_of_Boulogne" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Grafschaft Boulogne" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Boulogne" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/County_of_Boulogne" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Grafschaft Boulogne" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "County of Boulogne" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/County_of_Boulogne" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Grafschaft Boulogne" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Comté de Boulogne" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Cromac,_Haute-Vienne" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Cromac" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Cromac" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Cross_Lake_(Manitoba)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Cross Lake" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Cross Lake" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Dali_County" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Dali (Weinan)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Dali County" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Damery,_Marne" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Damery (Marne)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Damery" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Damery,_Somme" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Damery (Somme)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Damery" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Dommartin,_Ain" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Dommartin (Ain)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Dommartin" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Dommartin,_Doubs" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Dommartin (Doubs)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Dommartin" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Dommartin,_Rhône" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Dommartin (Rhône)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Dommartin" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Dommartin,_Somme" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Dommartin (Somme)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Dommartin" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Dommartin-aux-Bois" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Dommartin-aux-Bois" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Dommartin-aux-Bois" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Dommartin-lès-Cuiseaux" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Dommartin-lès-Cuiseaux" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Dommartin-lès-Cuiseaux" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Dommartin-lès-Remiremont" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Dommartin-lès-Remiremont" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Dommartin-lès-Remiremont" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Dommartin-lès-Toul" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Dommartin-lès-Toul" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Dommartin-lès-Toul" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Dommartin-lès-Vallois" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Dommartin-lès-Vallois" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Dommartin-lès-Vallois" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Dutch_East_Indies" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Niederländisch-Indien" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Dutch East Indies" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Dutch_East_Indies" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Niederländisch-Indien" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Hindia-Belanda" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Dutch_East_Indies" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Niederländisch-Indien" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Nederlands-Indië" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Dutch_East_Indies" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Niederländisch-Indien" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Netherlands East-Indies" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Dutch_East_Indies" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Niederländisch-Indien" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Nederlandsch-Indië" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Emirates_Crown" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Emirates Crown" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Emirates Crown" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Firehawk_(roller_coaster)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Firehawk (Kings Island)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Firehawk" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Hall_Island_(Arctic)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Hall-Insel (Franz-Josef-Land)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Hall Island" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Hochdorf,_Biberach" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Hochdorf (Riß)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Hochdorf" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Hochdorf,_Esslingen" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Hochdorf (bei Plochingen)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Hochdorf" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Hranice_(Cheb_District)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Hranice u Aše" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Hranice" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Hranice_(České_Budějovice_District)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Hranice u Nových Hradů" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Hranice" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/James_Parker_(Massachusetts)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "James Parker (Massachusetts)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "James Parker" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Janów,_Podlaskie_Voivodeship" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Janów (Powiat Sokólski)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Janów" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Janów,_Silesian_Voivodeship" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Janów (Powiat Częstochowski)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Janów" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Janów_Podlaski" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Janów Podlaski" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Janów Podlaski" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Jussy,_Aisne" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Jussy (Aisne)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Jussy" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Jussy,_Moselle" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Jussy (Moselle)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Jussy" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Kaeng_Krachan_National_Park" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Nationalpark Kaeng Krachan" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Kaeng Krachan National Park" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Kahl_Nuclear_Power_Plant" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Kernkraftwerk Kahl" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Kahl Nuclear Power Plant" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Kalinga_(India)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Kalinga (Indien)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Kalinga" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Kalinga_(province)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Provinz Kalinga" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Kalinga" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Kalinga_(province)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Provinz Kalinga" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Province of Kalinga" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Kharan,_Pakistan" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Kharan (Pakistan)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Kharan" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Khatanga_Gulf" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Chatangagolf" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Khatanga Gulf" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Khatanga_Gulf" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Chatangagolf" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Хатангский залив" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Kisii_County" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Kisii County" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Kisii County" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Knightsbridge_tube_station" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Knightsbridge (London Underground)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Knightsbridge" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/La_Vallée,_Charente-Maritime" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "La Vallée (Charente-Maritime)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "La Vallée" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Lancang_Lahu_Autonomous_County" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Lancang" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Lancang Lahu Autonomous County" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Les_Anses-d'Arlet" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Les Anses-d\u2019Arlet" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Les Anses-d'Arlet" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Mandel,_Germany" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Mandel (Gemeinde)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Mandel" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Markt_Sankt_Martin" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Markt Sankt Martin" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Markt Sankt Martin" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Marz,_Austria" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Marz" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Marz" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Melkite_Greek_Catholic_Eparchy_of_Saint-Sauveur_of_Montréal" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Eparchie Saint-Sauveur de Montréal" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Saint-Sauveur in Montréal (Melkite Greek)" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Melkite_Greek_Catholic_Eparchy_of_Saint-Sauveur_of_Montréal" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Eparchie Saint-Sauveur de Montréal" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Eparchia Sanctissimi Salvatoris Marianopolitansis Graecorum Melkitarum Catholicorum" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Mermaid_Beach,_Queensland" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Mermaid Beach" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Mermaid Beach" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Merville,_Haute-Garonne" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Merville (Haute-Garonne)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Merville" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Merville,_Nord" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Merville (Nord)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Merville" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Merville,_Nord" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Merville (Nord)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Meregem" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Metro_Cagayan_de_Oro" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Metro Cagayan de Oro" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Metro Cagayan de Oro" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Mokko,_Niger" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Mokko" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Mokko, Niger" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Montereau-sur-le-Jard" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Montereau-sur-le-Jard" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Montereau-sur-le-Jard" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Monts-Valin_National_Park" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Parc national des Monts-Valin" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Monts-Valin National Park" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Mud,_Iran" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Mud (Stadt)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Mud" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Mueang_Sisaket_District" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Amphoe Mueang Si Sa Ket" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Mueang Sisaket" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Mueang_Sisaket_District" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Amphoe Mueang Si Sa Ket" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "เมืองศรีสะเกษ" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Muri_Abbey" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Kloster Muri" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Muri Abbey" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/NQ_Vulpeculae" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "NQ Vulpeculae" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "NQ Vulpeculae" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Nandgaon_State" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Nandgaon" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Nandgaon" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Nandgaon_State" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Nandgaon" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Nandgaon State" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Nandgaon_State" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Nandgaon" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "नांदगाँव रियासत" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/National_Archaeological_Museum,_Tirana" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Archäologisches Nationalmuseum (Tirana)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "National Archaeological Museum" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/National_Archaeological_Museum_(Bulgaria)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Nationales Archäologisches Museum (Sofia)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "(Национален археологически институт с музей при Българска академия на науките)" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/National_Archaeological_Museum_(Bulgaria)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Nationales Archäologisches Museum (Sofia)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "National Institute of Archaeology with Museum in Bulgarian Academy of Sciences" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/National_Archaeological_Museum_(Florence)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Archäologisches Nationalmuseum Florenz" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "National Archaeological Museum of Florence" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/National_Archaeological_Museum_(Florence)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Archäologisches Nationalmuseum Florenz" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Museo archeologico nazionale di Firenze" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Njala,_Moyamba" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Njala" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Njala" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Němčice_(Blansko_District)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Němčice u Boskovic" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Němčice" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Němčice_(Domažlice_District)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Němčice u Kdyně" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Němčice" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Němčice_(Kroměříž_District)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Němčice u Holešova" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Němčice" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Němčice_(Prachatice_District)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Němčice u Netolic" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Němčice" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Němčice_(Strakonice_District)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Němčice u Volyně" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Němčice" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Němčice_nad_Hanou" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Němčice nad Hanou" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Němčice nad Hanou" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Olmedo,_Sardinia" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Olmedo (Sardinien)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Olmedo" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Olmedo,_Sardinia" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Olmedo (Sardinien)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Comune di Olmedo" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Pers-Jussy" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Pers-Jussy" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Pers-Jussy" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Phan_District" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Amphoe Phan" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Phan" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Phan_District" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Amphoe Phan" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "พาน" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Piotrowice,_Kłodzko_County" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Piotrowice (Bystrzyca Kłodzka)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Piotrowice" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Piotrowice,_Oświęcim_County" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Piotrowice (Przeciszów)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Piotrowice" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Piotrowice,_West_Pomeranian_Voivodeship" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Piotrowice (Dygowo)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Piotrowice" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Plaisance,_Gers" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Plaisance (Gers)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Plaisance (Plasença)" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Plaisance-du-Touch" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Plaisance-du-Touch" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Plaisance-du-Touch" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Podmokly_(Klatovy_District)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Podmokly u Sušice" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Podmokly" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Podmokly_(Rokycany_District)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Podmokly nad Berounkou" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Podmokly" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Raman_District" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Amphoe Raman" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Raman" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Raman_District" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Amphoe Raman" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "รามัน" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Red_Bull_Arena_(Leipzig)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Red Bull Arena (Leipzig)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Red Bull Arena" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Red_Bull_Arena_(Leipzig)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Red Bull Arena (Leipzig)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Zentralstadion (1956\u20132010)" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Red_Bull_Arena_(Salzburg)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Red Bull Arena (Wals-Siezenheim)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Red Bull Arena" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Rio_Minho_(Jamaica)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Rio Minho (Jamaika)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Rio Minho" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Cebu" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Erzbistum Cebu" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Cebu" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Cebu" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Erzbistum Cebu" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Archidiocesis Nominis Iesu o Cæbuanus" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Cebu" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Erzbistum Cebu" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Artsidiyosesis sa Sugbo" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Galloway" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Bistum Galloway" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Galloway" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Galloway" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Bistum Galloway" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Dioecesis Candidae Casae o Gallovidianus" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Roper_River" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Roper River" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Roper" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Roya_(river)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Roya" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Roya, Roia, Roìa" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Ruś,_Olsztyn_County" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Ruś (Stawiguda)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Ruś" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Sacred_Heart_Cathedral,_Rēzekne" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Herz-Jesu-Kathedrale (Rēzekne)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Sacred Heart Cathedral" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint-Cyprien,_Corrèze" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saint-Cyprien (Corrèze)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Saint-Cyprien" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint-Cyprien,_Dordogne" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saint-Cyprien (Dordogne)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Saint-Cyprien" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint-Cyprien,_Loire" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saint-Cyprien (Loire)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Saint-Cyprien" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint-Cyprien,_Pyrénées-Orientales" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saint-Cyprien (Pyrénées-Orientales)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Saint-Cyprien" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint-Cyprien,_Pyrénées-Orientales" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saint-Cyprien (Pyrénées-Orientales)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Sant Cebrià de Rosselló" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint-Cyprien-sur-Dourdou" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saint-Cyprien-sur-Dourdou" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Saint-Cyprien-sur-Dourdou" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint-Sauveur,_Finistère" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saint-Sauveur (Finistère)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Saint-Sauveur" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint-Sauveur,_Finistère" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saint-Sauveur (Finistère)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "An Dre-Nevez" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint-Sauveur,_Gironde" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saint-Sauveur (Gironde)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Saint-Sauveur" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint-Sauveur,_Haute-Garonne" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saint-Sauveur (Haute-Garonne)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Saint-Sauveur" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint-Sauveur,_Haute-Saône" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saint-Sauveur (Haute-Saône)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Saint-Sauveur" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint-Sauveur,_Hautes-Alpes" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saint-Sauveur (Hautes-Alpes)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Saint-Sauveur" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint-Sauveur,_Isère" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saint-Sauveur (Isère)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Saint-Sauveur" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint-Sauveur,_Oise" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saint-Sauveur (Oise)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Saint-Sauveur" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint-Sauveur,_Somme" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saint-Sauveur (Somme)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Saint-Sauveur" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint-Sauveur,_Vienne" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saint-Sauveur (Vienne)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Saint-Sauveur" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint-Sauveur-Camprieu" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saint-Sauveur-Camprieu" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Saint-Sauveur-Camprieu" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint-Sauveur-Lendelin" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saint-Sauveur-Lendelin" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Saint-Sauveur-Lendelin" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint-Sauveur-d'Émalleville" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saint-Sauveur-d\u2019Émalleville" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Saint-Sauveur-d\u2019Émalleville" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint-Sauveur-de-Cruzières" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saint-Sauveur-de-Cruzières" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Saint-Sauveur-de-Cruzières" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint-Sauveur-de-Landemont" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saint-Sauveur-de-Landemont" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Saint-Sauveur-de-Landemont" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint-Sauveur-de-Peyre" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saint-Sauveur-de-Peyre" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Saint-Sauveur-de-Peyre" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint-Sauveur-en-Rue" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saint-Sauveur-en-Rue" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Saint-Sauveur-en-Rue" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saint-Sauveur-lès-Bray" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saint-Sauveur-lès-Bray" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Saint-Sauveur-lès-Bray" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Saka,_Estonia" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Saka (Kohtla)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Saka" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Salpa_Line" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Salpa-Linie" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Salpa Line" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Sankt_Martin,_Germany" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Sankt Martin (Pfalz)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Sankt Martin" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Sankt_Martin,_Lower_Austria" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "St. Martin (Niederösterreich)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Sankt Martin" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Sankt_Martin_am_Grimming" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Sankt Martin am Grimming" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Sankt Martin am Grimming" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Sankt_Martin_am_Tennengebirge" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "St. Martin am Tennengebirge" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Sankt Martin am Tennengebirge" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Sankt_Martin_am_Wöllmißberg" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Sankt Martin am Wöllmißberg" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Sankt Martin am Wöllmißberg" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Sankt_Martin_an_der_Raab" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Sankt Martin an der Raab" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Sankt Martin an der Raab" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Sankt_Martin_bei_Lofer" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Sankt Martin bei Lofer" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Sankt Martin bei Lofer" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Sankt_Martin_im_Innkreis" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "St. Martin im Innkreis" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Sankt Martin im Innkreis" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Sankt_Martin_im_Mühlkreis" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "St. Martin im Mühlkreis" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Sankt Martin im Mühlkreis" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Sankt_Martin_im_Sulmtal" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Sankt Martin im Sulmtal" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Sankt Martin im Sulmtal" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Sassen,_Germany" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Sassen (Eifel)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Sassen" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Scheidt,_Rhineland-Palatinate" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Scheidt (Rhein-Lahn-Kreis)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Scheidt" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Scheidt_(Saarbrücken)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Scheidt (Saarbrücken)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Scheidt" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Schlossberg_(Brandenburg)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Schlossberg (Burg)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Schlossberg (Burg)" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Schlossberg_(Uri)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Schlossberg (Uri)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Schlossberg" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Schlossberg_Ulrichstein" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Burg Ulrichstein" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Schlossberg Ulrichstein" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Schlossberg_von_Tettelham" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Schlossberg von Tettelham" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Schlossberg von Tettelham" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Schloßberg_(Leibnitz)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Schloßberg (Steiermark)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Schloßberg" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Schloßberg_(Pegnitz)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Schloßberg (Pegnitz)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Schloßberg (Pegnitz)" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Shaba_National_Reserve" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Shaba-Nationalreservat" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Shaba National Reserve" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Shekhan_District" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Schaichān" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Shekhan" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Skye" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Skye" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "An t-Eilean Sgitheanach" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Sono_Department" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Sono" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Sono" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/South_Coast_AVA" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "South Coast AVA" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "South Coast AVA" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Spieser_Schlossberg" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Burgstall Spies" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Spieser Schlossberg" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Spital_am_Pyhrn" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Spital am Pyhrn" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Spital am Pyhrn" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Spital_am_Semmering" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Spital am Semmering" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Spital am Semmering" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Stadio_Comunale_(Chiavari)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Stadio Comunale (Chiavari)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Stadio Comunale" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Stadio_Comunale_Bellinzona" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Stadio Comunale (Bellinzona)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Stadio Comunale Bellinzona" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Stadio_Comunale_di_Monigo" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Stadio Comunale di Monigo" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Stadio Comunale di Monigo" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/State_of_Katanga" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Katanga (Staat)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "State of Katanga" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/State_of_Katanga" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Katanga (Staat)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Katanga" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/State_of_Katanga" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Katanga (Staat)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Inchi ya Katanga" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/State_of_Katanga" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Katanga (Staat)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "État du Katanga" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Strahlenfelser_Schlossberg" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Burgstall Strahlenfels" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Strahlenfelser Schlossberg" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Swan_Lake_(Manitoba)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Swan Lake (Manitoba)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Swan Lake" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Taq_Kasra" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Taq-e Kisra" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Taq Kasra" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Theodor_Heuss_Bridge_(Düsseldorf)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Theodor-Heuss-Brücke (Düsseldorf)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Theodor Heuss Bridge" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Theodor_Heuss_Bridge_(Düsseldorf)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Theodor-Heuss-Brücke (Düsseldorf)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Theodor-Heuss-Brücke" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Toei_Shinjuku_Line" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Toei Shinjuku-Linie" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Shinjuku Line" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Transnistria_Governorate" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Gouvernement Transnistrien" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Transnistria" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Transnistria_Governorate" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Gouvernement Transnistrien" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Transnistria Governorate" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Transnistria_Governorate" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Gouvernement Transnistrien" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Guvernământul Transnistriei" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Trient,_Switzerland" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Trient VS" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Trient" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Weißkirchen_an_der_Traun" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Weißkirchen an der Traun" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Weißkirchen an der Traun" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Weißkirchen_in_Steiermark" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Weißkirchen in Steiermark" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Weißkirchen in Steiermark" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Werder,_Demmin" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Werder (bei Altentreptow)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Werder" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Werder,_Ethiopia" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Warder (Äthiopien)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Werder" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Werder,_Parchim" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Werder (bei Lübz)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Werder" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Western_Freeway_(Victoria)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Western Freeway (Victoria)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Western Freeway" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Wolf_Lake_(Yukon)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Wolf Lake (Yukon)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Wolf Lake" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Zamboanga_City" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Zamboanga City" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Zamboanga City" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Zamboanga_City" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Zamboanga City" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "City of Zamboanga" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Zamboanga_del_Norte" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Zamboanga del Norte" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Zamboanga del Norte" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Zamboanga_del_Norte" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Zamboanga del Norte" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Province of Zamboanga del Norte" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Žitava_(river)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Žitava" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Žitava" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/'Amran" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "ʿAmrān" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "عمران" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/'Amran" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "ʿAmrān" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "ʿAmrān" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/1190_Pelagia" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(1190) Pelagia" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "1190 Pelagia" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/1269_Rollandia" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(1269) Rollandia" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Rollandia" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/1374_Isora" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(1374) Isora" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "1374 Isora" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/1565_Lemaître" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(1565) Lemaître" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "1565 Lemaître" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/159_Aemilia" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(159) Aemilia" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "159 Aemilia" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/1621_Druzhba" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(1621) Druzhba" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "1621 Druzhba" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/1651_Behrens" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(1651) Behrens" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "1651 Behrens" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/1722_Goffin" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(1722) Goffin" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "1722 Goffin" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/173_Ino" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(173) Ino" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "173 Ino" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/1852_Carpenter" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(1852) Carpenter" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "1852 Carpenter" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/1912_Anubis" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(1912) Anubis" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "1912 Anubis" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/19521_Chaos" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(19521) Chaos" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "19521 Chaos" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/1955_McMath" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(1955) McMath" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "1955 McMath" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/1958_Chandra" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(1958) Chandra" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "1958 Chandra" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/1983_Bok" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(1983) Bok" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "1983 Bok" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/2009_Voloshina" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(2009) Voloshina" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "2009 Voloshina" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/205_Martha" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(205) Martha" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "205 Martha" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/2099_Öpik" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(2099) Öpik" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "2099 Öpik" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/2102_Tantalus" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(2102) Tantalus" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Tantalus" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/2384_Schulhof" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(2384) Schulhof" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "2384 Schulhof" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/2429_Schürer" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(2429) Schürer" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "2429 Schürer" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/27_Euterpe" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(27) Euterpe" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "27 Euterpe" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/280_Philia" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(280) Philia" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "280 Philia" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/314_Rosalia" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(314) Rosalia" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "314 Rosalia" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/3635_Kreutz" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(3635) Kreutz" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Kreutz" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/363_Padua" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(363) Padua" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "363 Padua" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/420_Bertholda" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(420) Bertholda" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "420 Bertholda" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/430_Hybris" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(430) Hybris" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "430 Hybris" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/43_Ariadne" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(43) Ariadne" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "43 Ariadne" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/4674_Pauling" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(4674) Pauling" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "4674 Pauling" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/689_Zita" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(689) Zita" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "689 Zita" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/7307_Takei" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(7307) Takei" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Takei" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/782_Montefiore" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(782) Montefiore" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "782 Montefiore" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/831_Stateira" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "(831) Stateira" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "831 Stateira" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Aappilattoq,_Kujalleq" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Aappilattoq" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Aappilattoq" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Abbecourt,_Oise" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Abbecourt" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Abbecourt" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Abra_Pampa" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Abra Pampa" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Abra Pampa" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Agia,_Cyprus" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Dilekkaya (Lefkoşa)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Agia" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Agia,_Larissa" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Agia (Thessalien)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Agia" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Agia,_Larissa" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Agia (Thessalien)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Αγιά" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Agioi_Theodoroi_(islands)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Theodorou" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Agioi Theodoroi" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Ahigal_de_Villarino" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Ahigal de Villarino" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Ahigal de Villarino" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Akbar,_Basilan" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Akbar (Basilan)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Akbar" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Al-Rastan" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Rastan" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Ar-Rastan" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Al-Rastan" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Rastan" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "الرستن" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Alberdi_Department" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Departamento Alberdi" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Alberdi Department" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Almonte_(river)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Almonte (Tajo)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Almonte" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Altenburg,_Lower_Austria" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Altenburg (Niederösterreich)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Altenburg" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Altenburg_(Bamberg)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Altenburg (Bamberg)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Altenburg" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Altenburg_(Neuental)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Altenburg (Neuental)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Altenburg" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Altenburg_(Niedenstein)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Altenburg (Niedenstein)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Altenburg" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Alu_(Ethiopia)" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Alu (Äthiopien)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Alu" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Ammoudia,_Preveza" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Ammoudia" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Ammoudia" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Ammoudia,_Preveza" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Ammoudia" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Αμμουδιά" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Andi_Koysu" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Andijskoje Koisu" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Andi Koysu" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Andon,_Alpes-Maritimes" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Andon (Alpes-Maritimes)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Andon" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Andorra,_Teruel" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Andorra (Teruel)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Andorra" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Andorra-Sierra_de_Arcos" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Andorra-Sierra de Arcos" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Andorra-Sierra de Arcos" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Andover_Township,_Ashtabula_County,_Ohio" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Andover Township (Ohio)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Andover Township, Ashtabula County, Ohio" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Anju_District" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Anju (Suining)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Anju" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Ano_Fanari" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Ano Fanari" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Ano Fanari" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Ano_Fanari" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Ano Fanari" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Άνω Φανάρι" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Anvik_Airport" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Flughafen Anvik" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Anvik Airport" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Arab_Kingdom_of_Syria" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Königreich Syrien" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Syria" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Arab_Kingdom_of_Syria" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Königreich Syrien" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Arab Kingdom of Syria" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Aragon,_Aude" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Aragon (Aude)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Aragon" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Arandis,_Namibia" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Arandis" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Arandis" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Arauco,_Chile" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Arauco" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Arauco" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Arborio,_Piedmont" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Arborio" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Arboro" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Arborio,_Piedmont" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Arborio" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Comune di Arboro" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Armenoi" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Armeni (Apokoronas)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Armenoi" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Armenoi" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Armeni (Apokoronas)" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Αρμένοι" }
+      } ,
+      {
+        "resc": { "type": "uri" , "value": "http://dbpedia.org/resource/Arnouville-lès-Mantes" } ,
+        "labelDe": { "type": "literal" , "xml:lang": "de" , "value": "Arnouville-lès-Mantes" } ,
+        "labelEn": { "type": "literal" , "xml:lang": "en" , "value": "Arnouville-lès-Mantes" }
+      }
+    ]
+  }
+}

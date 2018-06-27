@@ -5,6 +5,9 @@ import org.apache.jena.query.QueryExecution;
 import org.apache.jena.query.QueryExecutionFactory;
 import org.apache.jena.query.ResultSet;
 import org.apache.jena.query.ResultSetFormatter;
+
+import sparqlQuery.sparqlClass;
+
 import java.io.*;
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
@@ -14,11 +17,11 @@ import java.util.concurrent.Future;
 
 
 public class sparqlClass {
-	
+
 	private String sparqlQuery;
 	private String path;
 	public sparqlClass() {
-		this.path = "result.txt";
+		this.path = System.getProperty("user.dir") + "\\results\\results.json";
 		this.sparqlQuery = "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>\r\n" + 
 				"PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\r\n" + 
 				"PREFIX dbo: <http://dbpedia.org/ontology/>\r\n" + 
@@ -39,50 +42,37 @@ public class sparqlClass {
 				"LIMIT 500";
 	}
 
-	public static void writeFile(String writeMessage, String path) 
+	public static OutputStream outStream(String path) 
 			  throws IOException {
 		        File file = new File(path);
-			    BufferedWriter writer = new BufferedWriter(new FileWriter(file, true));
-			    writer.append(writeMessage);
-			    writer.newLine();
-			     
-			    writer.close();
+		        OutputStream outputStream = new FileOutputStream(file);
+			   
+		        return outputStream;
 			}
-	
-	//Fibonacci function 
-	 public static long fibonacci(int n) {
-	        if (n <= 1) return n;
-	        else return fibonacci(n-1) + fibonacci(n-2);
-	    }
 
 	 
-	    public static void main(String[] args) {
+	    public static void main(String[] args) throws IOException {
 	    	ExecutorService executor = Executors.newCachedThreadPool(); //meant for Future
 	    	ParameterizedSparqlString qs = new ParameterizedSparqlString((new sparqlClass()).sparqlQuery); //SparQL
-	    	QueryExecution exec = QueryExecutionFactory.sparqlService("http://dbpedia.org/sparql", qs.asQuery()); //SparQL
- 	        final ResultSet results = exec.execSelect(); //SparQL
+	    	final QueryExecution exec = QueryExecutionFactory.sparqlService("http://dbpedia.org/sparql", qs.asQuery()); //SparQL
+ 	        final OutputStream  outStream = outStream(new sparqlClass().path); //Created an outputstream to handle the file writing
  	       
-	    		
+	    	
+ 	        //the implementation of Future starts from here
 	    	Future<String> future = executor.submit(new Callable<String>() {
 	    		
 	    		public String call() throws Exception{
 	    			
 	    	        
-	    	        System.out.println("Starting Thread...");
-	    	       
+	    	        System.out.println("Start Threading...");
 	    	        
-	    	      //Toggling in between the Fibonacci and the SparQl queryy
-	    	        int n = Integer.parseInt(args[0]);
-	    	        for (int i = 1; i <= n; i++)
-	    	        {
-	    	        	writeFile(Long.toString( fibonacci(i)),(new sparqlClass()).path);
-	    	        }
+	    	        final ResultSet results = exec.execSelect(); //SparQL
 	    	        
 	    	        while (results.hasNext()) {
-					writeFile(results.next().toString(),(new sparqlClass()).path);
+					ResultSetFormatter.outputAsJSON(outStream, results);
 					
 					}
-	    	        System.out.println("Ended Thread...");
+	    	        System.out.println("End Threading...");
 	    	        return results.toString();
 	    		}
 	    		
@@ -90,16 +80,7 @@ public class sparqlClass {
 	    	
 	    	executor.shutdown();
 	        
-	        try {
-	        	System.out.println(future.get());
-				//ResultSetFormatter.out(results);
-			} catch (ExecutionException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			} catch (InterruptedException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			}
+	       
 	    }
 	}
 
