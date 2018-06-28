@@ -21,7 +21,7 @@ public class sparqlClass {
 	private String sparqlQuery;
 	private String path;
 	public sparqlClass() {
-		this.path = System.getProperty("user.dir") + "\\results\\results.json";
+		this.path = System.getProperty("user.dir") + "\\results\\results.tsv";
 		this.sparqlQuery = "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>\r\n" + 
 				"PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\r\n" + 
 				"PREFIX dbo: <http://dbpedia.org/ontology/>\r\n" + 
@@ -69,7 +69,7 @@ public class sparqlClass {
 	    	        final ResultSet results = exec.execSelect(); //SparQL
 	    	        
 	    	        while (results.hasNext()) {
-					ResultSetFormatter.outputAsJSON(outStream, results);
+					ResultSetFormatter.outputAsTSV(outStream, results);
 					
 					}
 	    	        System.out.println("End Threading...");
