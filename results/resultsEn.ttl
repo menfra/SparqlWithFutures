@@ -1,0 +1,607 @@
+@prefix res:   <http://www.w3.org/2005/sparql-results#> .
+@prefix dbr:   <http://dbpedia.org/resource/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+[ a                   res:ResultSet ;
+  res:resultVariable  "city" , "labelEn" ;
+  res:solution        [ res:binding  [ res:value     "Florești, Moldova"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Florești,_Moldova> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Troy"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Troy ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Turku"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Turku ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Floresta, Pernambuco"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Floresta,_Pernambuco> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Ctesiphon"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Ctesiphon ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "I Stand Alone (Al Kooper album)"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/I_Stand_Alone_(Al_Kooper_album)> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Corycus (Lycia)"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Corycus_(Lycia)> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Bhadravati, Maharashtra"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Bhadravati,_Maharashtra> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "James G. Whiting Memorial Field"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:James_G._Whiting_Memorial_Field ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Ituzaingó, Corrientes"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Ituzaingó,_Corrientes> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Antioch"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Antioch ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Matamoros, Coahuila"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Matamoros,_Coahuila> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Brusque, Santa Catarina"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Brusque,_Santa_Catarina> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Elaea (Lebanon)"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Elaea_(Lebanon)> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Vantaa"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Vantaa ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Bhalwal"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Bhalwal ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Antigonia Psaphara"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Antigonia_Psaphara ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Celerina (see)"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Celerina_(see)> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Casablanca, Chile"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Casablanca,_Chile> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Antigonia (Syria)"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Antigonia_(Syria)> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Chust, Uzbekistan"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Chust,_Uzbekistan> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Siguatepeque"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Siguatepeque ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Selinunte"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Selinunte ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Al-Rastan"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Al-Rastan ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Sevastopol"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Sevastopol ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Akbarabad, Sarduiyeh"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Akbarabad,_Sarduiyeh> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Nandgaon, Maharashtra"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Nandgaon,_Maharashtra> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "West Berlin"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:West_Berlin ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Reti, Pakistan"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Reti,_Pakistan> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Aksu, Kazakhstan"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Aksu,_Kazakhstan> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Kirovsk, Luhansk Oblast"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Kirovsk,_Luhansk_Oblast> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "'Amran"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/'Amran> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Hafar Al-Batin"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Hafar_Al-Batin ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Nandgaon, Uttar Pradesh"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Nandgaon,_Uttar_Pradesh> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Eggenberg (Graz)"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Eggenberg_(Graz)> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Khazaran"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Khazaran ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Liman, Azerbaijan"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Liman,_Azerbaijan> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Leiria"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Leiria ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Dingzhou"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Dingzhou ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Manek Chowk (Ahmedabad)"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Manek_Chowk_(Ahmedabad)> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Hamat"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Hamat ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Heliopolis (Ancient Egypt)"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Heliopolis_(Ancient_Egypt)> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Cragus (Cilicia)"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Cragus_(Cilicia)> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Cragus (Lycia)"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Cragus_(Lycia)> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Bilaspur, Gautam Buddh Nagar"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Bilaspur,_Gautam_Buddh_Nagar> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Batu (city)"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Batu_(city)> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Akwa Akpa"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Akwa_Akpa ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Espoo"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Espoo ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Ciudad Mier"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Ciudad_Mier ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Urban heat island"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Urban_heat_island ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Bilaspur, Haryana"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Bilaspur,_Haryana> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Hata, India"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Hata,_India> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Angola (Book of Mormon)"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Angola_(Book_of_Mormon)> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Mud, Iran"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Mud,_Iran> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Segesta"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Segesta ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Chowk Azam"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Chowk_Azam ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Bageis"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Bageis ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Haifa"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Haifa ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Jenin"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Jenin ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Barranca, Lima"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Barranca,_Lima> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Lal Chowk"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Lal_Chowk ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Petra"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Petra ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Acre, Israel"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Acre,_Israel> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Bernal, Argentina"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Bernal,_Argentina> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Independent city"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Independent_city ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Raman, Punjab (India)"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Raman,_Punjab_(India)> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "La Imperial, Chile"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/La_Imperial,_Chile> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Badi, Raisen"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Badi,_Raisen> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Mazraat el-Btadiniye"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Mazraat_el-Btadiniye ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Bode, Nepal"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Bode,_Nepal> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Gera (Egypt)"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Gera_(Egypt)> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Porvoo"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Porvoo ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Braga"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Braga ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Aboh"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Aboh ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Ramallah"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Ramallah ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Sardis"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Sardis ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Padmavati Pawaya"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Padmavati_Pawaya ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Bikram, Patna"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Bikram,_Patna> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "La Campana"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:La_Campana ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Juan José Ríos, Sinaloa"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Juan_José_Ríos,_Sinaloa> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Hebron"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Hebron ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Ashkelon"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Ashkelon ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Samandar (city)"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Samandar_(city)> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Arauco, Chile"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Arauco,_Chile> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Gaza City"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Gaza_City ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "La Floresta, Uruguay"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/La_Floresta,_Uruguay> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Kitahiroshima, Hokkaido"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Kitahiroshima,_Hokkaido> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Hancheng"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Hancheng ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Tamazula de Victoria"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Tamazula_de_Victoria ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Izúcar de Matamoros"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Izúcar_de_Matamoros ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Zamboanga City"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Zamboanga_City ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Lord Mayor of London"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Lord_Mayor_of_London ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Cebu City"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Cebu_City ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Chagai, Pakistan"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Chagai,_Pakistan> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Balanjar"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Balanjar ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Corycus"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Corycus ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Donggang, Liaoning"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     <http://dbpedia.org/resource/Donggang,_Liaoning> ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Lora del Río"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Lora_del_Río ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Lora de Estepa"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Lora_de_Estepa ;
+                           res:variable  "city"
+                         ] ] ;
+  res:solution        [ res:binding  [ res:value     "Leptis Magna"@en ;
+                                       res:variable  "labelEn"
+                                     ] ;
+            res:binding  [ res:value     dbr:Leptis_Magna ;
+                           res:variable  "city"
+                         ] ]
+] .
