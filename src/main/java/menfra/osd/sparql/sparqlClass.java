@@ -33,7 +33,7 @@ public class sparqlClass {
 				"?city rdfs:label ?labelDe.\r\n" + 
 				"filter(lang(?labelDe) = 'de').\r\n" + 
 				"}\r\n" + 
-				"LIMIT 100";
+				"LIMIT 70";
 		
 		this.sparqlQueryEn = "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\r\n" + 
 				"PREFIX dbo: <http://dbpedia.org/ontology/>\r\n" + 
@@ -43,7 +43,7 @@ public class sparqlClass {
 				"?city rdfs:label ?labelEn.\r\n" + 
 				"filter(lang(?labelEn) = 'en').\r\n" + 
 				"}\r\n" + 
-				"LIMIT 100";
+				"LIMIT 70";
 	}
 
 	public static OutputStream outStream(String path) 
