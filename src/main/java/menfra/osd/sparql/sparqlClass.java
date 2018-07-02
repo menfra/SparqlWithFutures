@@ -11,6 +11,8 @@ import org.apache.jena.query.ParameterizedSparqlString;
 import org.apache.jena.query.QueryExecution;
 import org.apache.jena.query.QueryExecutionFactory;
 import org.apache.jena.rdf.model.Model;
+import org.apache.jena.riot.Lang;
+import org.apache.jena.riot.RDFDataMgr;
 
 import menfra.osd.sparql.sparqlClass;
 
@@ -25,25 +27,20 @@ public class sparqlClass {
 		this.outputEn_ttl= System.getProperty("user.dir") + "\\results\\resultsEn.ttl";
 		this.outputDe_ttl = System.getProperty("user.dir") + "\\results\\resultsDe.ttl";
 		
-		this.sparqlQueryDe = "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\r\n" + 
-				"PREFIX dbo: <http://dbpedia.org/ontology/>\r\n" + 
-				"\r\n" + 
-				"select distinct ?city ?labelDe{\r\n" + 
-				"?city a dbo:City.\r\n" + 
-				"?city rdfs:label ?labelDe.\r\n" + 
-				"filter(lang(?labelDe) = 'de').\r\n" + 
-				"}\r\n" + 
-				"LIMIT 70";
+		this.sparqlQueryDe = "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> \r\n" + 
+				"PREFIX dbo: <http://dbpedia.org/ontology/> \r\n" + 
+				"construct { ?city rdfs:label ?labelDe. } \r\n" + 
+				"where { ?city a dbo:City. \r\n" + 
+				"        ?city rdfs:label ?labelDe. \r\n" + 
+				"        filter(lang(?labelDe) = 'de') } \r\n" + 
+				"LIMIT 50";
 		
-		this.sparqlQueryEn = "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\r\n" + 
-				"PREFIX dbo: <http://dbpedia.org/ontology/>\r\n" + 
-				"\r\n" + 
-				"select distinct ?city ?labelEn{\r\n" + 
-				"?city a dbo:City.\r\n" + 
-				"?city rdfs:label ?labelEn.\r\n" + 
-				"filter(lang(?labelEn) = 'en').\r\n" + 
-				"}\r\n" + 
-				"LIMIT 70";
+		this.sparqlQueryEn = "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> \r\n" + 
+				"PREFIX dbo: <http://dbpedia.org/ontology/> \r\n" + 
+				"construct { ?city rdfs:label ?labelEn. } \r\n" + 
+				"where { ?city a dbo:City. \r\n" + 
+				"        ?city rdfs:label ?labelEn. \r\n" + 
+				"        filter(lang(?labelEn) = 'en') }";
 	}
 
 	public static OutputStream outStream(String path) 
@@ -75,11 +72,11 @@ public class sparqlClass {
 	    	        
 	    	        System.out.println("Start Threading...");
 	    	        
-	    	        final Model model_de = exec1.execDescribe(); //model_de handles the German result  
-					model_de.write(outStreamttlDe, "TURTLE");
+	    	        final Model model_de = exec1.execConstruct(); //model_de handles the German result  
+					RDFDataMgr.write(outStreamttlDe, model_de, Lang.TTL);
 					
-					final Model model_en = exec2.execDescribe(); //model_de handles the German result  
-					model_en.write(outStreamttlEn, "TURTLE");
+					final Model model_en = exec2.execConstruct(); //model_de handles the German result
+					RDFDataMgr.write(outStreamttlEn, model_en, Lang.TTL);
 					
 	    	        System.out.println("End Threading...");
 	    	        return "Execution Completed... ";
