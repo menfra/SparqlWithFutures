@@ -1,120 +1,344 @@
+@prefix dbo:   <http://dbpedia.org/ontology/> .
 @prefix dbr:   <http://dbpedia.org/resource/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 
-dbr:Gaza_City  rdfs:label  "Gaza (Stadt)"@de .
+dbr:Dubai_International_City
+        a           dbo:City ;
+        rdfs:label  "Dubai International City"@de .
+
+dbr:Gaza_City  a    dbo:City ;
+        rdfs:label  "Gaza (Stadt)"@de .
 
 <http://dbpedia.org/resource/Bernal,_Argentina>
+        a           dbo:City ;
         rdfs:label  "Bernal (Argentinien)"@de .
 
-dbr:Petra  rdfs:label  "Petra (Jordanien)"@de .
+dbr:Petra  a        dbo:City ;
+        rdfs:label  "Petra (Jordanien)"@de .
+
+<http://dbpedia.org/resource/Pushkino,_Pushkinsky_District,_Moscow_Oblast>
+        a           dbo:City ;
+        rdfs:label  "Puschkino"@de .
+
+dbr:Chillán_Viejo  a  dbo:City ;
+        rdfs:label  "Chillán Viejo"@de .
 
 <http://dbpedia.org/resource/Donggang,_Liaoning>
+        a           dbo:City ;
         rdfs:label  "Donggang (Dandong)"@de .
 
-dbr:Turku  rdfs:label  "Turku"@de .
+dbr:Turku  a        dbo:City ;
+        rdfs:label  "Turku"@de .
 
-dbr:Jenin  rdfs:label  "Dschenin"@de .
+dbr:Jenin  a        dbo:City ;
+        rdfs:label  "Dschenin"@de .
+
+dbr:Lusaka  a       dbo:City ;
+        rdfs:label  "Lusaka"@de .
 
 <http://dbpedia.org/resource/La_Floresta,_Uruguay>
+        a           dbo:City ;
         rdfs:label  "La Floresta (Uruguay)"@de .
 
-dbr:Antioch  rdfs:label  "Antiochia am Orontes"@de .
+dbr:Antioch  a      dbo:City ;
+        rdfs:label  "Antiochia am Orontes"@de .
 
 <http://dbpedia.org/resource/Florești,_Moldova>
+        a           dbo:City ;
         rdfs:label  "Florești (Moldawien)"@de .
 
-dbr:Leptis_Magna  rdfs:label  "Leptis Magna"@de .
+dbr:Leptis_Magna  a  dbo:City ;
+        rdfs:label  "Leptis Magna"@de .
 
-dbr:Sevastopol  rdfs:label  "Sewastopol"@de .
+dbr:Sevastopol  a   dbo:City ;
+        rdfs:label  "Sewastopol"@de .
 
 <http://dbpedia.org/resource/Acre,_Israel>
+        a           dbo:City ;
         rdfs:label  "Akkon"@de .
 
-dbr:Zamboanga_City  rdfs:label  "Zamboanga City"@de .
+dbr:Zamboanga_City  a  dbo:City ;
+        rdfs:label  "Zamboanga City"@de .
+
+<http://dbpedia.org/resource/Río_Segundo,_Córdoba>
+        a           dbo:City ;
+        rdfs:label  "Río Segundo"@de .
 
 <http://dbpedia.org/resource/Ituzaingó,_Corrientes>
+        a           dbo:City ;
         rdfs:label  "Ituzaingó (Corrientes)"@de .
 
-dbr:Haifa  rdfs:label  "Haifa"@de .
+dbr:Haifa  a        dbo:City ;
+        rdfs:label  "Haifa"@de .
 
 <http://dbpedia.org/resource/Chust,_Uzbekistan>
+        a           dbo:City ;
         rdfs:label  "Chust (Usbekistan)"@de .
 
-dbr:Sardis  rdfs:label  "Sardes"@de .
+dbr:Sardis  a       dbo:City ;
+        rdfs:label  "Sardes"@de .
+
+<http://dbpedia.org/resource/Cruz,_Ceará>
+        a           dbo:City ;
+        rdfs:label  "Cruz (Ceará)"@de .
 
 <http://dbpedia.org/resource/'Amran>
+        a           dbo:City ;
         rdfs:label  "ʿAmrān"@de .
 
 <http://dbpedia.org/resource/Casablanca,_Chile>
+        a           dbo:City ;
         rdfs:label  "Casablanca (Chile)"@de .
 
-dbr:Leiria  rdfs:label  "Leiria"@de .
+dbr:Leiria  a       dbo:City ;
+        rdfs:label  "Leiria"@de .
 
-dbr:Ashkelon  rdfs:label  "Aschkelon"@de .
+dbr:Ashkelon  a     dbo:City ;
+        rdfs:label  "Aschkelon"@de .
 
-dbr:Porvoo  rdfs:label  "Porvoo"@de .
+dbr:South_Tangerang  a  dbo:City ;
+        rdfs:label  "Tangerang Selatan"@de .
 
-dbr:Cebu_City  rdfs:label  "Cebu City"@de .
+dbr:Porvoo  a       dbo:City ;
+        rdfs:label  "Porvoo"@de .
+
+dbr:Gaozhou  a      dbo:City ;
+        rdfs:label  "Gaozhou"@de .
+
+<http://dbpedia.org/resource/Bridgeport,_Connecticut>
+        a           dbo:City ;
+        rdfs:label  "Bridgeport (Connecticut)"@de .
+
+dbr:Syracuse_Hancock_International_Airport
+        a           dbo:City ;
+        rdfs:label  "Flughafen Syracuse Hancock International"@de .
+
+<http://dbpedia.org/resource/Wuyishan,_Fujian>
+        a           dbo:City ;
+        rdfs:label  "Wuyishan"@de .
+
+dbr:Cebu_City  a    dbo:City ;
+        rdfs:label  "Cebu City"@de .
+
+dbr:Al_Khums  a     dbo:City ;
+        rdfs:label  "Al-Chums"@de .
+
+dbr:Holingol  a     dbo:City ;
+        rdfs:label  "Holin Gol"@de .
+
+dbr:Tiananmen_Square  a  dbo:City ;
+        rdfs:label  "Tian’anmen-Platz"@de .
 
 <http://dbpedia.org/resource/Myrina_(Aeolis)>
+        a           dbo:City ;
         rdfs:label  "Myrina (Kleinasien)"@de .
 
+dbr:Rafah  a        dbo:City ;
+        rdfs:label  "Rafah"@de .
+
+dbr:Bologna  a      dbo:City ;
+        rdfs:label  "Bologna"@de .
+
+<http://dbpedia.org/resource/Fuyuan,_Heilongjiang>
+        a           dbo:City ;
+        rdfs:label  "Fuyuan (Jiamusi)"@de .
+
 dbr:Lord_Mayor_of_London
+        a           dbo:City ;
         rdfs:label  "Lord Mayor of London"@de .
 
-dbr:Braga  rdfs:label  "Braga"@de .
+dbr:Braga  a        dbo:City ;
+        rdfs:label  "Braga"@de .
+
+dbr:Tonghua  a      dbo:City ;
+        rdfs:label  "Tonghua"@de .
+
+dbr:Hejian  a       dbo:City ;
+        rdfs:label  "Hejian"@de .
 
 <http://dbpedia.org/resource/Brusque,_Santa_Catarina>
+        a           dbo:City ;
         rdfs:label  "Brusque (Santa Catarina)"@de .
 
 <http://dbpedia.org/resource/Mud,_Iran>
+        a           dbo:City ;
         rdfs:label  "Mud (Stadt)"@de .
 
-dbr:Hancheng  rdfs:label  "Hancheng"@de .
+dbr:Hancheng  a     dbo:City ;
+        rdfs:label  "Hancheng"@de .
 
-dbr:Al-Rastan  rdfs:label  "Rastan"@de .
+dbr:Al-Rastan  a    dbo:City ;
+        rdfs:label  "Rastan"@de .
+
+dbr:Candon  a       dbo:City ;
+        rdfs:label  "Candon"@de .
+
+dbr:Kortrijk  a     dbo:City ;
+        rdfs:label  "Kortrijk"@de .
 
 <http://dbpedia.org/resource/Aksu,_Kazakhstan>
+        a           dbo:City ;
         rdfs:label  "Aqsu (Pawlodar)"@de .
 
 <http://dbpedia.org/resource/Kirovsk,_Luhansk_Oblast>
+        a           dbo:City ;
         rdfs:label  "Kirowsk (Luhansk)"@de .
 
-dbr:Bhalwal  rdfs:label  "Bhalwal"@de .
+dbr:Bhalwal  a      dbo:City ;
+        rdfs:label  "Bhalwal"@de .
 
-dbr:Troy  rdfs:label  "Troja"@de .
+<http://dbpedia.org/resource/Daye,_Hubei>
+        a           dbo:City ;
+        rdfs:label  "Daye"@de .
 
-dbr:Espoo  rdfs:label  "Espoo"@de .
+dbr:Elez_Han  a     dbo:City ;
+        rdfs:label  "Han i Elezit"@de .
 
-dbr:Corycus  rdfs:label  "Korykos"@de .
+dbr:Curanilahue  a  dbo:City ;
+        rdfs:label  "Curanilahue"@de .
+
+dbr:Pinara  a       dbo:City ;
+        rdfs:label  "Pinara"@de .
+
+dbr:Abidjan  a      dbo:City ;
+        rdfs:label  "Abidjan"@de .
+
+dbr:Troy  a         dbo:City ;
+        rdfs:label  "Troja"@de .
+
+<http://dbpedia.org/resource/Hagerstown,_Maryland>
+        a           dbo:City ;
+        rdfs:label  "Hagerstown (Maryland)"@de .
+
+<http://dbpedia.org/resource/Vergara,_Uruguay>
+        a           dbo:City ;
+        rdfs:label  "Vergara (Uruguay)"@de .
+
+dbr:Espoo  a        dbo:City ;
+        rdfs:label  "Espoo"@de .
+
+dbr:Corycus  a      dbo:City ;
+        rdfs:label  "Korykos"@de .
 
 <http://dbpedia.org/resource/Kitahiroshima,_Hokkaido>
+        a           dbo:City ;
         rdfs:label  "Kitahiroshima"@de .
 
-dbr:Hebron  rdfs:label  "Hebron"@de .
+dbr:Hebron  a       dbo:City ;
+        rdfs:label  "Hebron"@de .
 
-dbr:Selinunte  rdfs:label  "Selinunt"@de .
+dbr:Tanais  a       dbo:City ;
+        rdfs:label  "Tanais (Sarmatien)"@de .
 
-dbr:Dingzhou  rdfs:label  "Dingzhou"@de .
+dbr:Selinunte  a    dbo:City ;
+        rdfs:label  "Selinunt"@de .
 
-dbr:Ciudad_Mier  rdfs:label  "Ciudad Mier"@de .
+dbr:Dingzhou  a     dbo:City ;
+        rdfs:label  "Dingzhou"@de .
 
-dbr:Segesta  rdfs:label  "Segesta"@de .
+<http://dbpedia.org/resource/Ishigaki,_Okinawa>
+        a           dbo:City ;
+        rdfs:label  "Ishigaki"@de .
 
-dbr:Ramallah  rdfs:label  "Ramallah"@de .
+dbr:Ciudad_Mier  a  dbo:City ;
+        rdfs:label  "Ciudad Mier"@de .
+
+dbr:González_Catán  a  dbo:City ;
+        rdfs:label  "González Catán"@de .
+
+dbr:Segesta  a      dbo:City ;
+        rdfs:label  "Segesta"@de .
+
+dbr:Alfena  a       dbo:City ;
+        rdfs:label  "Alfena"@de .
+
+<http://dbpedia.org/resource/Lianjiang,_Guangdong>
+        a           dbo:City ;
+        rdfs:label  "Lianjiang (Zhanjiang)"@de .
+
+dbr:Ramallah  a     dbo:City ;
+        rdfs:label  "Ramallah"@de .
+
+<http://dbpedia.org/resource/Grand_Rapids,_Michigan>
+        a           dbo:City ;
+        rdfs:label  "Grand Rapids (Michigan)"@de .
 
 <http://dbpedia.org/resource/Eggenberg_(Graz)>
+        a           dbo:City ;
         rdfs:label  "Eggenberg (Graz)"@de .
 
-dbr:Bageis  rdfs:label  "Bagis"@de .
+dbr:Herning  a      dbo:City ;
+        rdfs:label  "Herning"@de .
 
-dbr:La_Campana  rdfs:label  "La Campana (Sevilla)"@de .
+dbr:Bageis  a       dbo:City ;
+        rdfs:label  "Bagis"@de .
+
+dbr:Hualien_City  a  dbo:City ;
+        rdfs:label  "Hualien"@de .
+
+<http://dbpedia.org/resource/Cartersville,_Georgia>
+        a           dbo:City ;
+        rdfs:label  "Cartersville"@de .
+
+<http://dbpedia.org/resource/Paine,_Chile>
+        a           dbo:City ;
+        rdfs:label  "Paine (Chile)"@de .
+
+dbr:Lushui  a       dbo:City ;
+        rdfs:label  "Lushui"@de .
+
+dbr:Feicheng  a     dbo:City ;
+        rdfs:label  "Feicheng"@de .
+
+dbr:Botou  a        dbo:City ;
+        rdfs:label  "Botou"@de .
+
+dbr:La_Campana  a   dbo:City ;
+        rdfs:label  "La Campana (Sevilla)"@de .
 
 <http://dbpedia.org/resource/Arauco,_Chile>
+        a           dbo:City ;
         rdfs:label  "Arauco"@de .
 
-dbr:Vantaa  rdfs:label  "Vantaa"@de .
+dbr:Gordium  a      dbo:City ;
+        rdfs:label  "Gordion"@de .
 
-dbr:West_Berlin  rdfs:label  "West-Berlin"@de .
+dbr:Vantaa  a       dbo:City ;
+        rdfs:label  "Vantaa"@de .
 
-dbr:Ctesiphon  rdfs:label  "Seleukia-Ktesiphon"@de .
+<http://dbpedia.org/resource/Bulnes,_Chile>
+        a           dbo:City ;
+        rdfs:label  "Bulnes (Chile)"@de .
+
+dbr:West_Berlin  a  dbo:City ;
+        rdfs:label  "West-Berlin"@de .
+
+dbr:Nakhon_Sawan  a  dbo:City ;
+        rdfs:label  "Nakhon Sawan"@de .
+
+dbr:Chengmai_County  a  dbo:City ;
+        rdfs:label  "Chengmai"@de .
+
+dbr:Prusias_ad_Hypium
+        a           dbo:City ;
+        rdfs:label  "Prusias ad Hypium (Titularbistum)"@de .
+
+<http://dbpedia.org/resource/Arnavutköy_(district)>
+        a           dbo:City ;
+        rdfs:label  "Arnavutköy (Istanbul)"@de .
+
+dbr:San_Antonio_de_Padua
+        a           dbo:City ;
+        rdfs:label  "San Antonio de Padua"@de .
+
+<http://dbpedia.org/resource/Pleuron,_Aetolia>
+        a           dbo:City ;
+        rdfs:label  "Pleuron (Aitolien)"@de .
+
+<http://dbpedia.org/resource/Offa,_Kwara>
+        a           dbo:City ;
+        rdfs:label  "Offa (Nigeria)"@de .
+
+dbr:Ctesiphon  a    dbo:City ;
+        rdfs:label  "Seleukia-Ktesiphon"@de .

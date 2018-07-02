@@ -27,20 +27,25 @@ public class sparqlClass {
 		this.outputEn_ttl= System.getProperty("user.dir") + "\\results\\resultsEn.ttl";
 		this.outputDe_ttl = System.getProperty("user.dir") + "\\results\\resultsDe.ttl";
 		
-		this.sparqlQueryDe = "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> \r\n" + 
+		this.sparqlQueryDe =  "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\r\n" + 
 				"PREFIX dbo: <http://dbpedia.org/ontology/> \r\n" + 
-				"construct { ?city rdfs:label ?labelDe. } \r\n" + 
-				"where { ?city a dbo:City. \r\n" + 
+				"PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> \r\n" + 
+				"\r\n" + 
+				"construct { ?city rdf:type dbo:City . \r\n" + 
+				"            ?city rdfs:label ?labelDe. } \r\n" + 
+				"where { ?city rdf:type dbo:City. \r\n" + 
 				"        ?city rdfs:label ?labelDe. \r\n" + 
-				"        filter(lang(?labelDe) = 'de') } \r\n" + 
-				"LIMIT 50";
+				"        filter (lang (?labelDe) = 'de') } LIMIT 100";
 		
-		this.sparqlQueryEn = "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> \r\n" + 
+		this.sparqlQueryEn = "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\r\n" + 
 				"PREFIX dbo: <http://dbpedia.org/ontology/> \r\n" + 
-				"construct { ?city rdfs:label ?labelEn. } \r\n" + 
-				"where { ?city a dbo:City. \r\n" + 
+				"PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> \r\n" + 
+				"\r\n" + 
+				"construct { ?city rdf:type dbo:City . \r\n" + 
+				"            ?city rdfs:label ?labelEn. } \r\n" + 
+				"where { ?city rdf:type dbo:City. \r\n" + 
 				"        ?city rdfs:label ?labelEn. \r\n" + 
-				"        filter(lang(?labelEn) = 'en') }";
+				"        filter (lang (?labelEn) = 'en') } LIMIT 100";
 	}
 
 	public static OutputStream outStream(String path) 
@@ -73,10 +78,10 @@ public class sparqlClass {
 	    	        System.out.println("Start Threading...");
 	    	        
 	    	        final Model model_de = exec1.execConstruct(); //model_de handles the German result  
-					RDFDataMgr.write(outStreamttlDe, model_de, Lang.TTL);
+					RDFDataMgr.write(outStreamttlDe, model_de, Lang.TURTLE);
 					
 					final Model model_en = exec2.execConstruct(); //model_de handles the German result
-					RDFDataMgr.write(outStreamttlEn, model_en, Lang.TTL);
+					RDFDataMgr.write(outStreamttlEn, model_en, Lang.TURTLE);
 					
 	    	        System.out.println("End Threading...");
 	    	        return "Execution Completed... ";
