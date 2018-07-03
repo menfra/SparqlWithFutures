@@ -48,7 +48,7 @@ public class sparqlClass {
 				"        filter (lang (?labelEn) = 'en') } LIMIT 100";
 	}
 
-	public static OutputStream outStream(String path) 
+	public static OutputStream outStream(String path) //The method that creates the output object
 			  throws IOException {
 		        File file = new File(path);
 		        OutputStream outputStream = new FileOutputStream(file);
@@ -78,10 +78,10 @@ public class sparqlClass {
 	    	        System.out.println("Start Threading...");
 	    	        
 	    	        final Model model_de = exec1.execConstruct(); //model_de handles the German result  
-					RDFDataMgr.write(outStreamttlDe, model_de, Lang.TURTLE);
+					RDFDataMgr.write(outStreamttlDe, model_de, Lang.TURTLE); // writing the data to a file
 					
 					final Model model_en = exec2.execConstruct(); //model_de handles the German result
-					RDFDataMgr.write(outStreamttlEn, model_en, Lang.TURTLE);
+					RDFDataMgr.write(outStreamttlEn, model_en, Lang.TURTLE); // writing the data to a file
 					
 	    	        System.out.println("End Threading...");
 	    	        return "Execution Completed... ";
